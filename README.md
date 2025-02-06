@@ -35,4 +35,4 @@ A brief description of another project. Highlight key features and technologies 
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oyebolapeter6&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oyebolapeter6&layout=compact&theme=radical).
