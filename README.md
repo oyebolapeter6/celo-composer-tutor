@@ -1,2 +1,2 @@
-# miniature-octo-train
+# Celo.org/celo-composer-tutor
 Celo.org/celo-composer-tutor
